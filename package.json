@@ -1,0 +1,7 @@
+{
+  "name": "test",
+  "packageManager": "yarn@3.1.1",
+  "dependencies": {
+    "bootstrap": "4.0.0"
+  }
+}
